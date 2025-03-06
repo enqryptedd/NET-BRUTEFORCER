@@ -1,0 +1,1 @@
+python main.py -i wlan0 -w wordlists/advanced.txt
