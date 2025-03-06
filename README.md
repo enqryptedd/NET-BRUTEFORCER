@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/enqryptedd/NET-BRUTEFORCER?label=Version&color=a80505">
   <img src="https://img.shields.io/github/stars/enqryptedd/NET-BRUTEFORCER?style=flat&label=Stars&color=a80505">
   <img src="https://img.shields.io/github/repo-size/enqryptedd/NET-BRUTEFORCER?label=Size&color=a80505">
   <img src="https://img.shields.io/github/languages/top/enqryptedd/NET-BRUTEFORCER?color=a80505">
