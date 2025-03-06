@@ -17,8 +17,7 @@ def main():
 {Fore.GREEN}██  ██ ██ ██         ██        ██   ██ ██   ██ ██    ██    ██    ██      ██      ██    ██ ██   ██ ██      ██      {Style.RESET_ALL}
 {Fore.GREEN}██   ████ ███████    ██        ██████  ██   ██  ██████     ██    ███████ ██       ██████  ██   ██  ██████ ███████ {Style.RESET_ALL}
 {Fore.CYAN}
-            WiFi Brute Forcer
-            ------------------
+            https://github.com/enqryptedd/NET-BRUTEFORCER/
 {Style.RESET_ALL}
 """)
     bruteforcer = Bruteforcer(args.interface, args.wordlist)
